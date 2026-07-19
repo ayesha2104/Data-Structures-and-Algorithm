@@ -16,6 +16,3 @@ graph = adjList(n, edges)
 
 print(graph)
 
-# Later
-bfs(graph, 0)
-dfs(graph, 0)
